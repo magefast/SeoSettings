@@ -1,0 +1,20 @@
+{
+  "name": "strekoza/module-seo-settings",
+  "description": "Magento 2 extension.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Strekoza\\SeoSettings\\": ""
+    }
+  }
+}
