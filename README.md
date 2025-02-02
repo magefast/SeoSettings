@@ -1,0 +1,2 @@
+# SeoSettings
+Magento module.
